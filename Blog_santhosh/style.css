@@ -1,0 +1,38 @@
+body{
+    background-color:mistyrose;
+    color:black;
+}
+.content1{
+    padding:30px 30px;
+    text-align: center;
+}
+.content2{
+    color:black;
+    text-align: center;
+    
+}
+.content3{
+    opacity: 0.8;
+    text-align: center;
+}
+.top-left {
+    position: absolute;
+    top: 460px;
+    left: 50px;
+    color:black;
+    
+  }
+.content4{
+    padding:50px 50px;
+    font-size: 20px;
+}
+.container {
+    position:relative;
+}
+
+#img2 {
+    position: absolute;
+    left: 200px;
+    top: 50px;
+    bottom: 50px;
+}
